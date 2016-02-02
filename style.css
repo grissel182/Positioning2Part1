@@ -1,0 +1,29 @@
+.rosa{
+	background-color: #ee3e64;
+	position: absolute;
+	width: 400px;
+	height: 400px;
+	
+	
+}
+.azul{
+	background-color: cyan;
+	position: relative;
+	width: 200px;
+	height: 200px;
+	left: 100px;
+	top:100px;
+
+
+}
+.yellow{
+	background-color: yellow;
+	position: static;
+	width: 100px;
+	height: 100px;
+
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
